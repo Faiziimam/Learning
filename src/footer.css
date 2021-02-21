@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Playfair+Display&display=swap');
+
+.footer
+{
+    color: white;
+    text-align: center;
+    background-color: #343a40;
+    margin-top: 20px;
+    width: 100%px;
+    height: 140px;
+   font-family: 'Noto Serif', serif;
+}
+.footer>h1
+{
+    font-weight: 100;
+}
+
